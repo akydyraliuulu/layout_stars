@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+div[class^="stars--"] {
+  display: flex;
+}
+/*# sourceMappingURL=index.48140114.css.map */
